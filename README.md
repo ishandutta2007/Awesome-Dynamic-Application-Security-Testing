@@ -59,9 +59,9 @@ Below is a comparative breakdown of commercial DAST SaaS solutions, sorted by **
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source DAST tools, active scanners, and specialized security frameworks. Sorted by **GitHub Star Count** (descending).
+Curated open-source DAST tools, active scanners, and specialized security frameworks. Sorted by **GitHub Stars_Count** (descending).
 
-| Project & Repo | Star Count | Primary Focus & Features | License |
+| Project & Repo | Stars_Count | Primary Focus & Features | License |
 | :--- | :--- | :--- | :--- |
 | **[sqlmap](https://github.com/sqlmapproject/sqlmap)** | [<img src="https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=social&color=white" alt="sqlmap stars"/>](https://github.com/sqlmapproject/sqlmap/stargazers) | Automated SQL injection detection, database takeover, and dynamic payload adaptation engine. | GPL-2.0 |
 | **[Nuclei](https://github.com/projectdiscovery/nuclei)** | [<img src="https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white" alt="nuclei stars"/>](https://github.com/projectdiscovery/nuclei/stargazers) | Fast, template-driven vulnerability scanner for web apps, APIs, DNS, and headless browser checks. | MIT |
@@ -92,7 +92,7 @@ Curated open-source DAST tools, active scanners, and specialized security framew
 
 1. Fork this repository 🍴
 2. Add your DAST tool or open-source scanner to `README.md` following the tabular format.
-3. Ensure accurate pricing details, free tier limits, star counts, or company metrics are included.
+3. Ensure accurate pricing details, free tier limits, Stars_Counts, or company metrics are included.
 4. Open a Pull Request (PR) with a brief summary of the changes.
 
 ---
